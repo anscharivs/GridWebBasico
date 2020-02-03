@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWebBásico", "GridWebBásico.csproj", "{BAF31A25-25DC-4D73-863E-35364DDE1E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{42C38FAD-A66B-4ADE-AD4B-9181A978B8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF31A25-25DC-4D73-863E-35364DDE1E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF31A25-25DC-4D73-863E-35364DDE1E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF31A25-25DC-4D73-863E-35364DDE1E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF31A25-25DC-4D73-863E-35364DDE1E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C38FAD-A66B-4ADE-AD4B-9181A978B8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C38FAD-A66B-4ADE-AD4B-9181A978B8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C38FAD-A66B-4ADE-AD4B-9181A978B8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C38FAD-A66B-4ADE-AD4B-9181A978B8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C04F5A-1C50-43A8-AACF-61ED5CFF3323}
+	EndGlobalSection
+EndGlobal
